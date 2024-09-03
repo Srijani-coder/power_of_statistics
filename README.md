@@ -38,9 +38,9 @@
        - p-value
 - **Portfolio projects:**
   - Folder:
-     -Tiktok_data_exploration
-     -Waze project
-     -Automatidata project
+     - Tiktok_data_exploration
+     - Waze project
+     - Automatidata project
   - Dataset:
      - tiktok_dataset.csv
      - waze_dataset.csv
