@@ -1,2 +1,53 @@
 # power_of_statistics
  portfolio projects with statistics as a part of google advanced data analytics course
+- **Descriptive statistics:**
+   - Folder: Introductory_descriptive_stats
+   - Dataset: c4_epa_air_quality.csv
+   - Statistical method: Minimum, maximum, mean , median values with python function. Interquartile range (IQR) is etracted
+- **Probability distribution:**
+   - Folder: probability_distribution
+   - Dataset: modified_c4_epa_air_quality.csv
+   - Statistical method and concepts:
+         - z-score
+         - normal distribution
+         - outlier detection
+         - concept of empirical rule
+- **Confidence interval:**
+   - Folder: confidence_interval
+   - Dataset: c4_epa_air_quality.csv
+   - Statistical methods and concepts:
+         - Identification of sample statistic
+         - Finding standard error and margin error
+         - Choosing confidence level
+         - Calculating confidence interval
+- **Sampling methods:**
+   - Folder: Sampling
+   - Dataset: c4_epa_air_quality.csv
+   - Statistical methods and concepts:
+       - Sampling methods
+       - Central limit theorem
+       - rendom state
+- **Hypothesis testing**
+  - Folder: hypothesis_testing
+  - Dataset: c4_epa_air_quality.csv
+  - Statistical methods and concepts:
+       - t-test
+       - one sample test and two sample test
+       - z-test
+       - significance level
+       - p-value
+- **Portfolio projects:**
+  - Folder:
+     -Tiktok_data_exploration
+     -Waze project
+     -Automatidata project
+  - Dataset:
+     - tiktok_dataset.csv
+     - waze_dataset.csv
+     - 2017_Yellow_Taxi_Trip_Data.csv
+  - Statistical methods and Concepts:
+     - A/B testing
+     - Hypothesis testing
+     - Data exploration
+
+Completion of the course **Power of the Statistics** enables the learning of important concepts and analysis using data. Statistical analysis empowers one data analysts to dive deep and derive insights from the data. 
